@@ -1,2 +1,2 @@
-#NodeJS Server
-###This is a simple nodeJS webserver created by Jiuk Choi.
+# NodeJS Server Project
+This is a simple nodeJS webserver created by Jiuk Choi.
